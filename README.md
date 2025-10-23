@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, I am Jacobo Nogales, a software developer from Bolivia
+#
 
 <!--
 **janogales454/janogales454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
